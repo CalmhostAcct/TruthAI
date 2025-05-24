@@ -1,6 +1,6 @@
 # TruthAI
 
-**TruthAI** is an open-source initiative to create a 100+ billion parameter language model focused on **factual accuracy**, **logical consistency**, and **transparent development**.
+**TruthAI** is an open-source initiative to create a 100+ billion parameter language model focused on reducing hallucinations and improving factual accuracy.
 
 ---
 
